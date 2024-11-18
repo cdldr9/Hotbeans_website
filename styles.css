@@ -1,0 +1,25 @@
+/* Custom Colors */
+.w3-custom-blue {
+    background-color: #003366 !important; /* Professional dark blue */
+    color: white !important;
+}
+
+.w3-custom-teal {
+    background-color: #008080 !important; /* Teal */
+    color: white !important;
+}
+
+.w3-custom-gray {
+    background-color: #F4F4F4 !important; /* Light gray */
+    color: #333333 !important;
+}
+
+.w3-custom-hover:hover {
+    background-color: #005050 !important; /* Darker teal for hover */
+}
+
+/* Custom Professional Color */
+.w3-custom-header {
+    background-color: #003366 !important; /* Dark Blue */
+    color: white !important; /* Text Color */
+}
